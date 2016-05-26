@@ -1,11 +1,17 @@
 #Readme file for Pig tutorial
 
-1) Run Pig Word Count using Local Mode
+1. Run Pig Word Count using Local Mode
+
     6.4  pig -x local wordcount6-4.pig
+
     6.5  pig -x local wordcount6-5.pig 
-2) Run Pig Word Count using Hadoop Mode
+    
+2. Run Pig Word Count using Hadoop Mode
+
     6.4	 pig -x mapreduce wordcount6-4.pig
+
     6.5	 pig -x mapreduce wordcount6-5.pig
 
 6.4 runtime (2min)
+
 6.5 runtime (48min)
